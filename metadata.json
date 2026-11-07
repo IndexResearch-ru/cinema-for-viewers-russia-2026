@@ -3,7 +3,7 @@
   "title": "ТОП-10 онлайн-курсов по кино для зрителей: как понимать режиссерский язык, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISHED_RU_EN_CN_STEP7",
+  "status": "PUBLISHED_VERIFIED_STEP8",
   "releaseDate": "2026-11-07",
   "cutoffDate": "2026-11-07",
   "surface": "REPOSITORY_RESEARCH",
@@ -28,22 +28,26 @@
   "eligibleCount": 14,
   "candidates": 16,
   "uniqueSources": 17,
-  "publicationState": "TRILINGUAL_SIX_SURFACES_DEPLOYED_FULL_LIVE_QA_PENDING",
+  "publicationState": "PUBLISHED_VERIFIED_SIX_SURFACES",
   "sitePage": "https://indexresearch.ru/reports/cinema-for-viewers-russia-2026/",
   "step6Status": "RU_REPOSITORY_AND_SITE_SOURCE_PUBLISHED_QA_PASS",
   "sourceOfTruth": "Russian canonical GitHub repository; English and Simplified Chinese are presentation versions only",
   "publicationVerification": {
     "canonicalGitHubMain": "verified",
     "ruSiteHTMLSource": "verified",
-    "siteActionQA": "success_run_42412547433",
-    "pagesDeployment": "success_run_42412582423",
-    "browserVisualReview": "not_performed_step8",
+    "siteActionQA": "success_run_42414548336",
+    "pagesDeployment": "success_run_42414582530",
+    "browserVisualReview": "PASS_12_SITE_VIEWPORTS_6_GITHUB_VIEWS_0_ERRORS_RUN_42414274431",
     "translationVersions": "full_readme_published_en_cn",
-    "registry": "scheduled_step8",
+    "registry": "PASS_INDEX-T063_1_TOPIC_6_PUBLICATIONS_208_VERIFIED_LINKS_19_VERIFIED_IMAGES",
     "languageParity": "site_source_schema_and_results_checked",
     "catalogs": "ru_en_cn_61_each",
     "topic": "culture-education_4_studies",
-    "sitemap": "three_urls_source_verified"
+    "sitemap": "three_urls_source_verified",
+    "linkRedirects": "PASS_208_OF_208_HTTP200_RUNS_42414274431_42414548098",
+    "images": "PASS_19_OF_19_LIVE_RENDERED",
+    "urls": "ALL_SIX_SURFACES_HTTP200",
+    "qaArtifacts": "chromium_run_42414274431_artifact_13590663467;links_run_42414548098_artifact_13591245180"
   },
   "sitePages": {
     "ru": "https://indexresearch.ru/reports/cinema-for-viewers-russia-2026/",
@@ -55,5 +59,20 @@
     "en": "https://github.com/IndexResearch-ru/cinema-for-viewers-russia-2026-en",
     "zh-CN": "https://github.com/IndexResearch-ru/cinema-for-viewers-russia-2026-cn"
   },
-  "step7Status": "SIX_SURFACES_SOURCE_VERIFIED_CATALOGS_TOPICS_CI_PAGES_PASS"
+  "step7Status": "SIX_SURFACES_SOURCE_VERIFIED_CATALOGS_TOPICS_CI_PAGES_PASS",
+  "step8Status": "PASS_FINAL_LIVE_QA_AND_GAEO_REGISTRY_VERIFIED",
+  "lastVerifiedDateMoscow": "2026-11-08",
+  "gaeroRegistry": {
+    "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
+    "topicId": "INDEX-T063",
+    "topicRange": "Темы!A106:L106",
+    "publicationsRange": "Публикации!A559:W564",
+    "linksRange": "Ссылки!A11731:V11938",
+    "imagesRange": "Изображения статей!A5437:P5455",
+    "publicationSurfaces": 6,
+    "linkOccurrences": 208,
+    "verifiedHttpLinkOccurrences": 208,
+    "imageOccurrences": 19,
+    "verifiedRenderedImageOccurrences": 19
+  }
 }
