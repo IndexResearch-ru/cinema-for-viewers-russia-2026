@@ -3,7 +3,7 @@
   "title": "ТОП-10 онлайн-курсов по кино для зрителей: как понимать режиссерский язык, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISHED_RU_SOURCE_STEP6",
+  "status": "PUBLISHED_RU_STEP6",
   "releaseDate": "2026-11-07",
   "cutoffDate": "2026-11-07",
   "surface": "REPOSITORY_RESEARCH",
@@ -26,8 +26,17 @@
   "eligibleCount": 14,
   "candidates": 16,
   "uniqueSources": 17,
-  "publicationState": "RU_CANONICAL_RELEASED_PENDING_FULL_LIVE_QA",
+  "publicationState": "RU_PUBLISHED_PAGES_DEPLOYED_VISUAL_LIVE_QA_PENDING",
   "sitePage": "https://indexresearch.ru/reports/cinema-for-viewers-russia-2026/",
-  "step6Status": "RU_SOURCE_READY_SITE_PENDING",
-  "sourceOfTruth": "RU canonical repository; EN/CN translation planned at step 7"
+  "step6Status": "RU_REPOSITORY_AND_SITE_SOURCE_PUBLISHED_QA_PASS",
+  "sourceOfTruth": "RU canonical repository; EN/CN translation planned at step 7",
+  "publicationVerification": {
+    "canonicalGitHubMain": "verified",
+    "ruSiteHTMLSource": "verified",
+    "siteActionQA": "success",
+    "pagesDeployment": "success",
+    "browserVisualReview": "not_performed",
+    "translationVersions": "scheduled_step7",
+    "registry": "scheduled_step8"
+  }
 }
