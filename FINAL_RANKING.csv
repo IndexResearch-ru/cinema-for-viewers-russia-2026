@@ -1,0 +1,15 @@
+﻿position;pool_id;provider;course;score_out_of_100;is_top10;same_rank_percent_5000;top1_percent_5000;official_url
+1;P01;Синхронизация;Как смотреть кино;95.00;ДА;100.00;100.00;https://online.synchronize.ru/movies/cinema
+2;P02;Level One;Учимся смотреть кино и говорить о нем;70.00;ДА;100.00;0.00;https://levelvan.ru/courses/cinemacourse
+3;P03;МИФ;За кадром: как понимать кино;65.00;ДА;100.00;0.00;https://www.mann-ivanov-ferber.ru/courses/product/watchafilm/
+4;P10;Киномарафон;Киноязык ведущих режиссеров современности. Часть 1;55.00;ДА;68.44;0.00;https://marafonkino.ru/topdirectors
+4;P11;Киномарафон;Киноязык ведущих режиссеров современности. Часть 2;55.00;ДА;68.44;0.00;https://marafonkino.ru/topdirectors_2
+6;P08;Синхронизация;Кино глазами режиссеров;53.75;ДА;40.40;0.00;https://online.synchronize.ru/movies/directors_new
+7;P04;Правое полушарие Интроверта;Как читать кино: язык фильма;52.50;ДА;56.64;0.00;https://online.artforintrovert.ru/mini-courses/kino-yandex
+8;P05;Level One;Современное кино: от Кристофера Нолана до Греты Гервиг;50.00;ДА;79.78;0.00;https://levelvan.ru/courses/485
+8;P06;Level One;Режиссеры, которые изменили кино;50.00;ДА;79.78;0.00;https://levelvan.ru/courses/filmmakercourse
+10;P09;Киномарафон;Базовый курс истории кино;47.50;ДА;92.52;0.00;https://marafonkino.ru/istoriyakinokurs
+11;P14;OUTSIGHT;Французская новая волна;38.75;НЕТ;80.12;0.00;https://outsight.online/french-new-wave
+12;P07;Level One;Кино со всего мира: от Франции до Таиланда;37.50;НЕТ;65.38;0.00;https://levelvan.ru/courses/worldcinemacourse
+13;P16;Киномарафон;История отечественного кино;36.25;НЕТ;75.92;0.00;https://marafonkino.ru/otechestvennoekino
+14;P15;KinoCulture;Как легко понимать кино;23.75;НЕТ;100.00;0.00;https://kinoculture.pro/

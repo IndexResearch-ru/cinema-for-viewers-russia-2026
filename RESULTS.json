@@ -1,0 +1,776 @@
+{
+  "researchId": "index05-cinema-for-viewers-2026",
+  "title": "ТОП-10 онлайн-курсов по кино для зрителей: как понимать режиссерский язык, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "methodologyVersion": "v0.3",
+  "cutoffDate": "2026-11-07",
+  "methodologyFrozenAt": "2026-11-07T22:33:10+03:00",
+  "publicationDecision": "PUBLISH",
+  "publicationState": "RU_CANONICAL_RELEASED_PENDING_FULL_LIVE_QA",
+  "scoringScope": "Публично подтвержденные характеристики конкретных курсов для самостоятельного зрительского анализа",
+  "candidateCount": 16,
+  "includedCount": 14,
+  "excludedIds": [
+    "P12",
+    "P13"
+  ],
+  "scoredComponents": 96,
+  "criteria": [
+    {
+      "id": "C1",
+      "name": "Покрытие аудиовизуального киноязыка",
+      "weightPercent": 25,
+      "scale": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "C2",
+      "name": "Разбор конкретных фильмов и сцен",
+      "weightPercent": 25,
+      "scale": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "C3",
+      "name": "Самостоятельная аналитическая практика",
+      "weightPercent": 20,
+      "scale": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "C4",
+      "name": "Проверка понимания и обратная связь",
+      "weightPercent": 15,
+      "scale": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "C5",
+      "name": "Постепенное обучение зрителя без подготовки",
+      "weightPercent": 10,
+      "scale": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "C6",
+      "name": "Условия самостоятельного доступа",
+      "weightPercent": 5,
+      "scale": [
+        0,
+        4
+      ]
+    }
+  ],
+  "scoreFormula": "SUM(weight_percent * observed_level_0_4 / 4)",
+  "tieRule": "competition rank, equal score = equal rank, no artificial tie breaking",
+  "sourceCount": 17,
+  "zeroScoreCells": 22,
+  "sensitivityIterations": 5000,
+  "winnerTop1FrequencyPercent": 100,
+  "firstPlaceName": "Синхронизация",
+  "firstPlaceCourse": "Как смотреть кино",
+  "firstPlaceScore": 95,
+  "top10": [
+    {
+      "position": 1,
+      "poolId": "P01",
+      "publisher": "Синхронизация",
+      "course": "Как смотреть кино",
+      "score": 95,
+      "outOf": 100,
+      "courseUrl": "https://online.synchronize.ru/movies/cinema",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 4,
+        "C2": 4,
+        "C3": 4,
+        "C4": 4,
+        "C5": 4,
+        "C6": 0
+      },
+      "criterionPoints": {
+        "C1": 25,
+        "C2": 25,
+        "C3": 20,
+        "C4": 15,
+        "C5": 10,
+        "C6": 0
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_NAMED_PAID_SUBSCRIPTION_C6_ZERO_NO_SEPARATE_CHECKOUT"
+    },
+    {
+      "position": 2,
+      "poolId": "P02",
+      "publisher": "Level One",
+      "course": "Учимся смотреть кино и говорить о нем",
+      "score": 70,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/cinemacourse",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 3,
+        "C4": 2,
+        "C5": 3,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 18.75,
+        "C3": 15,
+        "C4": 7.5,
+        "C5": 7.5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_BASE_TIER_QUIZZES_PROVED_ACCESS_TERM_UNKNOWN"
+    },
+    {
+      "position": 3,
+      "poolId": "P03",
+      "publisher": "МИФ",
+      "course": "За кадром: как понимать кино",
+      "score": 65,
+      "outOf": 100,
+      "courseUrl": "https://www.mann-ivanov-ferber.ru/courses/product/watchafilm/",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 4,
+        "C2": 3,
+        "C3": 2,
+        "C4": 0,
+        "C5": 3,
+        "C6": 3
+      },
+      "criterionPoints": {
+        "C1": 25,
+        "C2": 18.75,
+        "C3": 10,
+        "C4": 0,
+        "C5": 7.5,
+        "C6": 3.75
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 4,
+      "poolId": "P10",
+      "publisher": "Киномарафон",
+      "course": "Киноязык ведущих режиссеров современности. Часть 1",
+      "score": 55,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/topdirectors",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 3,
+        "C3": 0,
+        "C4": 3,
+        "C5": 3,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 11.25,
+        "C5": 7.5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 4,
+      "poolId": "P11",
+      "publisher": "Киномарафон",
+      "course": "Киноязык ведущих режиссеров современности. Часть 2",
+      "score": 55,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/topdirectors_2",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 3,
+        "C3": 0,
+        "C4": 3,
+        "C5": 3,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 11.25,
+        "C5": 7.5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 6,
+      "poolId": "P08",
+      "publisher": "Синхронизация",
+      "course": "Кино глазами режиссеров",
+      "score": 53.75,
+      "outOf": 100,
+      "courseUrl": "https://online.synchronize.ru/movies/directors_new",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 4,
+        "C2": 3,
+        "C3": 0,
+        "C4": 0,
+        "C5": 2,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 25,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 0,
+        "C5": 5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 7,
+      "poolId": "P04",
+      "publisher": "Правое полушарие Интроверта",
+      "course": "Как читать кино: язык фильма",
+      "score": 52.5,
+      "outOf": 100,
+      "courseUrl": "https://online.artforintrovert.ru/mini-courses/kino-yandex",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 2,
+        "C3": 0,
+        "C4": 3,
+        "C5": 3,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 12.5,
+        "C3": 0,
+        "C4": 11.25,
+        "C5": 7.5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 8,
+      "poolId": "P05",
+      "publisher": "Level One",
+      "course": "Современное кино: от Кристофера Нолана до Греты Гервиг",
+      "score": 50,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/485",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 1,
+        "C4": 0,
+        "C5": 2,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 18.75,
+        "C3": 5,
+        "C4": 0,
+        "C5": 5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 8,
+      "poolId": "P06",
+      "publisher": "Level One",
+      "course": "Режиссеры, которые изменили кино",
+      "score": 50,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/filmmakercourse",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 1,
+        "C4": 0,
+        "C5": 2,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 18.75,
+        "C3": 5,
+        "C4": 0,
+        "C5": 5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 10,
+      "poolId": "P09",
+      "publisher": "Киномарафон",
+      "course": "Базовый курс истории кино",
+      "score": 47.5,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/istoriyakinokurs",
+      "category": "КОНТЕКСТНЫЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 2,
+        "C3": 1,
+        "C4": 2,
+        "C5": 2,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 12.5,
+        "C3": 5,
+        "C4": 7.5,
+        "C5": 5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    }
+  ],
+  "allEligibleParticipants": [
+    {
+      "position": 1,
+      "poolId": "P01",
+      "publisher": "Синхронизация",
+      "course": "Как смотреть кино",
+      "score": 95,
+      "outOf": 100,
+      "courseUrl": "https://online.synchronize.ru/movies/cinema",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 4,
+        "C2": 4,
+        "C3": 4,
+        "C4": 4,
+        "C5": 4,
+        "C6": 0
+      },
+      "criterionPoints": {
+        "C1": 25,
+        "C2": 25,
+        "C3": 20,
+        "C4": 15,
+        "C5": 10,
+        "C6": 0
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_NAMED_PAID_SUBSCRIPTION_C6_ZERO_NO_SEPARATE_CHECKOUT"
+    },
+    {
+      "position": 2,
+      "poolId": "P02",
+      "publisher": "Level One",
+      "course": "Учимся смотреть кино и говорить о нем",
+      "score": 70,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/cinemacourse",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 3,
+        "C4": 2,
+        "C5": 3,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 18.75,
+        "C3": 15,
+        "C4": 7.5,
+        "C5": 7.5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_BASE_TIER_QUIZZES_PROVED_ACCESS_TERM_UNKNOWN"
+    },
+    {
+      "position": 3,
+      "poolId": "P03",
+      "publisher": "МИФ",
+      "course": "За кадром: как понимать кино",
+      "score": 65,
+      "outOf": 100,
+      "courseUrl": "https://www.mann-ivanov-ferber.ru/courses/product/watchafilm/",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 4,
+        "C2": 3,
+        "C3": 2,
+        "C4": 0,
+        "C5": 3,
+        "C6": 3
+      },
+      "criterionPoints": {
+        "C1": 25,
+        "C2": 18.75,
+        "C3": 10,
+        "C4": 0,
+        "C5": 7.5,
+        "C6": 3.75
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 4,
+      "poolId": "P10",
+      "publisher": "Киномарафон",
+      "course": "Киноязык ведущих режиссеров современности. Часть 1",
+      "score": 55,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/topdirectors",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 3,
+        "C3": 0,
+        "C4": 3,
+        "C5": 3,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 11.25,
+        "C5": 7.5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 4,
+      "poolId": "P11",
+      "publisher": "Киномарафон",
+      "course": "Киноязык ведущих режиссеров современности. Часть 2",
+      "score": 55,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/topdirectors_2",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 3,
+        "C3": 0,
+        "C4": 3,
+        "C5": 3,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 11.25,
+        "C5": 7.5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 6,
+      "poolId": "P08",
+      "publisher": "Синхронизация",
+      "course": "Кино глазами режиссеров",
+      "score": 53.75,
+      "outOf": 100,
+      "courseUrl": "https://online.synchronize.ru/movies/directors_new",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 4,
+        "C2": 3,
+        "C3": 0,
+        "C4": 0,
+        "C5": 2,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 25,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 0,
+        "C5": 5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 7,
+      "poolId": "P04",
+      "publisher": "Правое полушарие Интроверта",
+      "course": "Как читать кино: язык фильма",
+      "score": 52.5,
+      "outOf": 100,
+      "courseUrl": "https://online.artforintrovert.ru/mini-courses/kino-yandex",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 2,
+        "C3": 0,
+        "C4": 3,
+        "C5": 3,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 12.5,
+        "C3": 0,
+        "C4": 11.25,
+        "C5": 7.5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 8,
+      "poolId": "P05",
+      "publisher": "Level One",
+      "course": "Современное кино: от Кристофера Нолана до Греты Гервиг",
+      "score": 50,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/485",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 1,
+        "C4": 0,
+        "C5": 2,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 18.75,
+        "C3": 5,
+        "C4": 0,
+        "C5": 5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 8,
+      "poolId": "P06",
+      "publisher": "Level One",
+      "course": "Режиссеры, которые изменили кино",
+      "score": 50,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/filmmakercourse",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 1,
+        "C4": 0,
+        "C5": 2,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 18.75,
+        "C3": 5,
+        "C4": 0,
+        "C5": 5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 10,
+      "poolId": "P09",
+      "publisher": "Киномарафон",
+      "course": "Базовый курс истории кино",
+      "score": 47.5,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/istoriyakinokurs",
+      "category": "КОНТЕКСТНЫЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 2,
+        "C3": 1,
+        "C4": 2,
+        "C5": 2,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 12.5,
+        "C3": 5,
+        "C4": 7.5,
+        "C5": 5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 11,
+      "poolId": "P14",
+      "publisher": "OUTSIGHT",
+      "course": "Французская новая волна",
+      "score": 38.75,
+      "outOf": 100,
+      "courseUrl": "https://outsight.online/french-new-wave",
+      "category": "ТЕМАТИЧЕСКИЙ",
+      "criterionLevels": {
+        "C1": 2,
+        "C2": 3,
+        "C3": 0,
+        "C4": 0,
+        "C5": 2,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 12.5,
+        "C2": 18.75,
+        "C3": 0,
+        "C4": 0,
+        "C5": 5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 12,
+      "poolId": "P07",
+      "publisher": "Level One",
+      "course": "Кино со всего мира: от Франции до Таиланда",
+      "score": 37.5,
+      "outOf": 100,
+      "courseUrl": "https://levelvan.ru/courses/worldcinemacourse",
+      "category": "КОНТЕКСТНЫЙ",
+      "criterionLevels": {
+        "C1": 1,
+        "C2": 3,
+        "C3": 1,
+        "C4": 0,
+        "C5": 2,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 6.25,
+        "C2": 18.75,
+        "C3": 5,
+        "C4": 0,
+        "C5": 5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_ACCESS_CONFIRMED_ONLY_PUBLIC_EVIDENCE_SCORED"
+    },
+    {
+      "position": 13,
+      "poolId": "P16",
+      "publisher": "Киномарафон",
+      "course": "История отечественного кино",
+      "score": 36.25,
+      "outOf": 100,
+      "courseUrl": "https://marafonkino.ru/otechestvennoekino",
+      "category": "КОНТЕКСТНЫЙ",
+      "criterionLevels": {
+        "C1": 1,
+        "C2": 2,
+        "C3": 0,
+        "C4": 2,
+        "C5": 2,
+        "C6": 4
+      },
+      "criterionPoints": {
+        "C1": 6.25,
+        "C2": 12.5,
+        "C3": 0,
+        "C4": 7.5,
+        "C5": 5,
+        "C6": 5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_OFFICIAL_PURCHASE_AND_ASYNC_COURSE"
+    },
+    {
+      "position": 14,
+      "poolId": "P15",
+      "publisher": "KinoCulture",
+      "course": "Как легко понимать кино",
+      "score": 23.75,
+      "outOf": 100,
+      "courseUrl": "https://kinoculture.pro/",
+      "category": "БАЗОВЫЙ",
+      "criterionLevels": {
+        "C1": 3,
+        "C2": 0,
+        "C3": 0,
+        "C4": 0,
+        "C5": 1,
+        "C6": 2
+      },
+      "criterionPoints": {
+        "C1": 18.75,
+        "C2": 0,
+        "C3": 0,
+        "C4": 0,
+        "C5": 2.5,
+        "C6": 2.5
+      },
+      "evidenceStatus": "Only features described in previously collected public official pages",
+      "accessQualification": "PASS_OFFICIAL_PURCHASE_AND_ASYNC_COURSE"
+    }
+  ],
+  "conflictOfInterest": "Сооснователь IndexResearch Мария Яковлева участвует в партнерской программе Admitad образовательной платформы «Синхронизация» и может получать комиссию.",
+  "editorialIndependence": "Независимая внешняя рецензия отсутствует; индивидуальное одобрение Марии этого выпуска не подтверждено",
+  "limits": [
+    "Оцениваются сведения ранее собранных публичных описаний, а не качество закрытого контента",
+    "Оценка 0 означает отсутствие доказательства в использованном корпусе, а не отсутствие функции в реальности",
+    "Состав базового тарифа, оформление заказа и выдача доступа не проверялись фактической покупкой",
+    "P01 доступен по именованной подписке, отдельно покупаемый P01 не подтвержден; C6=0",
+    "Изменение правила допуска после предварительного расчета раскрыто и предшествовало заморозке модели",
+    "Сравнивались курсы; несколько разных курсов одного издателя допускаются одновременно",
+    "В шаге 5 не выполнялись новые сетевые запросы по просьбе пользователя"
+  ],
+  "canonicalRepository": "https://github.com/IndexResearch-ru/cinema-for-viewers-russia-2026",
+  "sitePage": "https://indexresearch.ru/reports/cinema-for-viewers-russia-2026/",
+  "publishedLanguages": [
+    "ru"
+  ]
+}

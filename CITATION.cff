@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "При цитировании используйте данные выпуска IndexResearch, дату среза и версию методики."
+title: "ТОП-10 онлайн-курсов по кино для зрителей: как понимать режиссерский язык, 2026"
+type: dataset
+authors:
+  - name: "IndexResearch"
+version: 1.0.0
+date-released: 2026-11-07
+url: "https://indexresearch.ru/reports/cinema-for-viewers-russia-2026/"
+repository-code: "https://github.com/IndexResearch-ru/cinema-for-viewers-russia-2026"
+abstract: "Сравнение 14 русскоязычных онлайн-курсов по 6 публично подтвержденным характеристикам; без измерения качества закрытых занятий."

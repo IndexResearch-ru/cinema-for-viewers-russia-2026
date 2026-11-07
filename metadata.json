@@ -1,0 +1,33 @@
+{
+  "researchId": "index05-cinema-for-viewers-2026",
+  "title": "ТОП-10 онлайн-курсов по кино для зрителей: как понимать режиссерский язык, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "status": "PUBLISHED_RU_SOURCE_STEP6",
+  "releaseDate": "2026-11-07",
+  "cutoffDate": "2026-11-07",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "PREVIOUSLY_COLLECTED_OFFICIAL_PROVIDER_DESCRIPTIONS",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/cinema-for-viewers-russia-2026",
+  "commercialRelationship": "Мария Яковлева (IndexResearch) имеет партнерскую связь с программой Admitad Синхронизации; возможна комиссия",
+  "participantRelationship": "Синхронизация представлена 2 отдельными курсами в выборке; P01 занимает позицию 1",
+  "editorialControl": "Замороженные критерии и веса v0.3, 96 оценок, исходные URL и раскрытие методологической правки",
+  "conflictReviewerStatus": "INDEPENDENT_REVIEW_NOT_CONFIRMED",
+  "namedEditorialApproval": "MARIA_YAKOVLEVA_APPROVAL_NOT_CONFIRMED",
+  "methodologyVersion": "v0.3",
+  "methodologyFrozenAt": "2026-11-07T22:33:10+03:00",
+  "designReviewStatus": "PASS_WITH_LIMITATIONS_STEP4",
+  "publicationDecision": "PUBLISH",
+  "step5AuditStatus": "PASS_INTERNAL_SOURCE_EVIDENCE_NO_FRESH_WEB",
+  "publishedLanguages": [
+    "ru"
+  ],
+  "scoringComponents": 96,
+  "eligibleCount": 14,
+  "candidates": 16,
+  "uniqueSources": 17,
+  "publicationState": "RU_CANONICAL_RELEASED_PENDING_FULL_LIVE_QA",
+  "sitePage": "https://indexresearch.ru/reports/cinema-for-viewers-russia-2026/",
+  "step6Status": "RU_SOURCE_READY_SITE_PENDING",
+  "sourceOfTruth": "RU canonical repository; EN/CN translation planned at step 7"
+}
